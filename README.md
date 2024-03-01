@@ -4,9 +4,9 @@ Create your own voice assistant using OpenAI's advanced language processing tech
 <br>
 
 # Info
-Name: David Hamonangan Sirait
-Program: IBM Advance AI
-Personal Mentor: Siska Anggraeni
+Name: David Hamonangan Sirait<br>
+Program: IBM Advance AI<br>
+Personal Mentor: Siska Anggraeni<br>
 Author: [Rohit Arora](https://www.linkedin.com/in/arora-r/) & [Talha Siddiqui](https://www.linkedin.com/in/talha01siddiqui/)
 
 # Tech
